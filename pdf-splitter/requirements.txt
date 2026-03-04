@@ -1,2 +1,5 @@
 pypdf
+
 tkinterdnd2
+
+customtkinter
