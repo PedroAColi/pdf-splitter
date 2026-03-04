@@ -17,10 +17,12 @@ Ferramenta criada para facilitar a divisão de documentos PDF em ambientes corpo
 - Python
 - Tkinter
 - tkinterdnd2
+- customtkinter
 - pypdf
 
 ## Como executar
 
 ```bash
 pip install -r requirements.txt
+
 python main.py
